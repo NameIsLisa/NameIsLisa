@@ -8,8 +8,10 @@
 ---
 My Favorite!
 - Satay
-- Bakso
-- Chicken Noodles
+- Satay
+- Satay
+- Satay
+- AND INDOMIE KUAH
 ---
 [DO NOT OPEN](https://youtu.be/xvFZjo5PgG0)
 ---
