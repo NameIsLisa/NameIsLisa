@@ -19,7 +19,7 @@ My Favorite!
 | Blender 3d | Imagination |
 | Food | Yum! |
 | Game | :) |
-| Touhou | Project |
+| Who? | Me! |
 
 
 I Will... [^1]
