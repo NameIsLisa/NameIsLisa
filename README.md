@@ -11,28 +11,24 @@
 - Chicken Noodles
 
 My Favorite!
+---
+[DO NOT OPEN](https://youtu.be/xvFZjo5PgG0)
+---
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-[DO NOT OPEN](https://www.example.com)
+I Will... [^1]
 
-```
-{
-  "shortname": "Lisa",
-  "age": 18
-}
-```
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+[^1]: Never Gonna Give You Up!.
 
 term
-: definition
+: what? nothing.
 
 I need to highlight these 
-==very important words==.
+==not so very important words==.
 
-H~2~O
-
-X^2^
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
