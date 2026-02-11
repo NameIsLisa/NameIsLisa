@@ -6,28 +6,30 @@
 `print("Nice to meet you")`
 
 ---
+My Favorite!
 - Satay
 - Bakso
 - Chicken Noodles
-
-My Favorite!
 ---
 [DO NOT OPEN](https://youtu.be/xvFZjo5PgG0)
 ---
-| Syntax | Description |
+| Text here | What? |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Idea | My brain |
+| Blender 3d | Imagination |
+| Food | Yum! |
+| Game | :) |
+| Touhou | Project |
+
 
 I Will... [^1]
 
 [^1]: Never Gonna Give You Up!.
 
-term
-: what? nothing.
+# I WILL MAKE THIS README INDAHHH
+Tapi untuk sekarang gini aja dulu.
 
-I need to highlight these 
-==not so very important words==.
+> :)
 
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
