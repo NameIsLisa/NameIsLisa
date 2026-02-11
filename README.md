@@ -32,7 +32,7 @@ I Will... [^1]
 Tapi untuk sekarang gini aja dulu.
 
 > :)
-
+> ini README kok aneh ya...
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
