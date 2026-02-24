@@ -133,7 +133,7 @@ Satay Level:  ██████████ 100%
 ## 📫 Contact
 
 * GitHub: [https://github.com/NameIsLisa](https://github.com/NameIsLisa)
-* Email: [well..nope.]
+* Email: [well...Next Time.]
 
 ---
 
@@ -156,15 +156,13 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## ✨ Animated Intro
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Building+Interactive+Systems;Always+Learning+New+Things;Satay+Powered+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Building+Interactive+Systems;Learning+New+Things;Satay+Powered+Developer" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
