@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Lisa GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">✨ Hi there 👋 I'm Lisa ✨</h1>
 
 <p align="center">
@@ -101,7 +105,7 @@ Satay Level:  ██████████ 100%
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NameIsLisa&show_icons=true&theme=tokyonight" />
+  My Stats
 </p>
 
 <p align="center">
@@ -134,6 +138,7 @@ Satay Level:  ██████████ 100%
 
 * GitHub: [https://github.com/NameIsLisa](https://github.com/NameIsLisa)
 * Email: [well...Next Time.]
+* Discord: name_is_lisa
 
 ---
 
@@ -154,8 +159,6 @@ Satay Level:  ██████████ 100%
 
 ---
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Building+Interactive+Systems;Learning+New+Things;Satay+Powered+Developer" />
 </p>
@@ -169,6 +172,45 @@ Satay Level:  ██████████ 100%
 </p>
 
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  AKU GAK PUNYAA AHAHAHAHA
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NameIsLisa&theme=tokyo-night" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NameIsLisa&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> <br>
+  waw...
+</p>
+
+---
+
+## 🎧 Currently Vibing To
+
+<p align="center">
+  I Can't, i don't know why. How about this.<br>
+  Lunar Clock ~ Luna Dial
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
@@ -176,6 +218,7 @@ Satay Level:  ██████████ 100%
 <p align="center">
 Still evolving. Just like my code.
 </p>
+
 
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
