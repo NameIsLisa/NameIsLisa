@@ -1,38 +1,66 @@
-### Hi there 👋
+<h1 align="center">✨ Hi there 👋 I'm Lisa ✨</h1>
 
-## I am Lisa
-# Yeah
-
-`print("Nice to meet you")`
+<p align="center">
+  <i>print("Nice to meet you")</i>
+</p>
 
 ---
-My Favorite!
-- Satay
-- Satay
-- Satay
-- Satay
-- AND INDOMIE KUAH
+
+## 🌸 About Me
+
+- 🍢 Professional Satay Enjoyer  
+- 🍜 Indomie Kuah Enthusiast  
+- 🎮 Game Lover  
+- 🧠 Idea Generator (sometimes overload)  
+- 🎨 Blender 3D + Imagination = Chaos  
+
 ---
-[DO NOT OPEN](https://youtu.be/xvFZjo5PgG0)
+
+## 💖 My Favorite Things
+
+> Satay.  
+> Satay.  
+> Satay.  
+> Satay.  
+> AND INDOMIE KUAH.
+
 ---
-| Text here | What? |
-| ----------- | ----------- |
-| Idea | My brain |
-| Blender 3d | Imagination |
-| Food | Yum! |
-| Game | :) |
-| Who? | Me! |
 
+## 🧩 Random Table Because Why Not
 
-I Will... [^1]
+| Topic        | Answer        |
+|-------------|--------------|
+| 💡 Idea     | My Brain     |
+| 🎨 Blender  | Imagination  |
+| 🍜 Food     | Yum!         |
+| 🎮 Game     | :)           |
+| 👀 Who?     | Me.          |
 
-[^1]: Never Gonna Give You Up!.
+---
 
-# I WILL MAKE THIS README INDAHHH
-Tapi untuk sekarang gini aja dulu.
+## 🎵 Important Note
 
-> :)
-> ini README kok aneh ya...
+<details>
+<summary>⚠️ DO NOT OPEN ⚠️</summary>
+
+[Totally safe link. Trust me.](https://youtu.be/xvFZjo5PgG0)
+
+</details>
+
+---
+
+## 📌 Footnote
+
+> I will...  
+> **Never Gonna Give You Up.**
+
+---
+
+<h3 align="center">🌟 README under construction 🌟</h3>
+<p align="center">
+Tapi untuk sekarang... gini aja dulu 😌
+</p>
+
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
