@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bruh.png" alt="Lisa GitHub Banner" width="100%" />
+  <img src="jangan itupng.png" alt="Lisa GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Hi there 👋 I'm Lisa ✨</h1>
@@ -202,7 +202,7 @@ Satay Level:  ██████████ 100%
 ## 🎧 Currently Vibing To
 
 <p align="center">
-  I Can't, i don't know why. How about this.<br>
+  I can't, i don't know why. How about this.<br>
   Lunar Clock ~ Luna Dial
 </p>
 
