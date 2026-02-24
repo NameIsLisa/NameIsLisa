@@ -21,7 +21,7 @@ class Lisa:
         self.role = "Software & Game Dev Student"
         self.passion = ["Game Dev", "UI/UX", "Interactive Systems"]
         self.languages = ["Python", "Kotlin", "Dart", "SQL"]
-        self.tools = ["Flutter", "Pygame", "Android Studio", "VS Code", "Blender"]
+        self.tools = ["Flutter", "Pygame", "Android Studio", "VS Code", "Blender 3D"]
         self.favorite_food = ["Satay", "Indomie Kuah"]
 
     def greet(self):
@@ -45,7 +45,6 @@ print(Lisa().greet())
 * Kotlin
 * Dart
 * SQL
-* PHP
 
 ### 🔧 Tools & Frameworks
 
@@ -53,7 +52,7 @@ print(Lisa().greet())
 * Laravel
 * Android Studio
 * VS Code
-* Blender
+* Blender 3D
 
 ---
 
