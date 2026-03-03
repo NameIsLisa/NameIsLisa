@@ -36,23 +36,17 @@ print(Lisa().greet())
 
 * 🎮 Love building interactive systems & games
 * 🧠 Idea generator (sometimes overload)
-* 🎨 Blender 3D + imagination = chaos
+* 🎨 Blender 3D + imagination
 * 🚀 Learning & improving
 
 ---
 
-## 🛠 Tech Stack
-
 ### 💻 Languages
 
 * Python
-* Kotlin
-* Dart
-* SQL
 
 ### 🔧 Tools & Frameworks
 
-* Flutter
 * Laravel
 * Android Studio
 * VS Code
@@ -138,11 +132,11 @@ Satay Level:  ██████████ 100%
 
 * GitHub: [https://github.com/NameIsLisa](https://github.com/NameIsLisa)
 * Email: [well...Next Time.]
-* Discord: name_is_lisa
+* Discord: -
 
 ---
 
-## 🎵 Important Note
+## 🎵 Not Important Note
 
 <details>
 <summary>⚠️ DO NOT OPEN ⚠️</summary>
@@ -150,12 +144,6 @@ Satay Level:  ██████████ 100%
 [https://youtu.be/xvFZjo5PgG0](https://youtu.be/xvFZjo5PgG0)
 
 </details>
-
----
-
-## 📌 Philosophy
-
-> Build. Break. Fix. Improve. Repeat.
 
 ---
 
@@ -177,7 +165,7 @@ Satay Level:  ██████████ 100%
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  AKU GAK PUNYAA AHAHAHAHA
+  GAK PUNYAA AHAHAHAHA
 </p>
 
 ---
@@ -208,9 +196,9 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Random Quote
 
-> "First, solve the problem. Then, write the code."
+> "First, think. Then, do it."
 
 ---
 
