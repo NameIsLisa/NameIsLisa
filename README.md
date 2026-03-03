@@ -148,7 +148,7 @@ Satay Level:  ██████████ 100%
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Building+Interactive+Systems;Learning+New+Things;Satay+Powered+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;README.md;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;Lazy;Still+Here+Eh?" />
 </p>
 
 ---
