@@ -24,8 +24,8 @@ class Lisa:
     def __init__(self):
         self.role = "Software & Game Dev Student"
         self.passion = ["Game Dev", "UI/UX", "Interactive Systems"]
-        self.languages = ["Python", "Kotlin", "Dart", "SQL"]
-        self.tools = ["Flutter", "Pygame", "Android Studio", "VS Code", "Blender 3D"]
+        self.languages = ["Python"]
+        self.tools = ["VS Code", "Blender 3D"]
         self.favorite_food = ["Satay", "Indomie Kuah"]
 
     def greet(self):
