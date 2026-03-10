@@ -96,7 +96,7 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <p align="center">
   My Stats
@@ -111,27 +111,26 @@ Satay Level:  ██████████ 100%
 
 ## 🎯 Current Goals
 
-* 🚀 Improve backend architecture
-* 🎮 Finish personal game project
-* 📱 Build better apps
-* 🧠 Turn ideas into real products
+* Improve backend architecture
+* Finish personal game project
+* Turn ideas into real
+* Keep sleeping and lying down (don't do the same thing, it's not good for your health)
 
 ---
 
-## 💖 My Favorite Things
-
+## 💖 Food
 > Satay.
 > Satay.
 > Satay.
 > Satay.
-> AND INDOMIE KUAH.
+> INDOMIE KUAH.
 
 ---
 
-## 📫 Contact
+## 📫
 
-* GitHub: [https://github.com/NameIsLisa](https://github.com/NameIsLisa)
-* Email: [well...Next Time.]
+* GitHub(you're already here): [https://github.com/NameIsLisa](https://github.com/NameIsLisa)
+* Email: Nope
 * Discord: -
 
 ---
@@ -153,7 +152,7 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 🐍 Contribution
+## 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -165,7 +164,7 @@ Satay Level:  ██████████ 100%
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  GAK PUNYAA AHAHAHAHA
+  I DON'T HAVE ANY AHAHAHA
 </p>
 
 ---
@@ -178,11 +177,11 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 👀 Profile Visitors
+## 👀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NameIsLisa&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> <br>
-  waw...
+  ohh...
 </p>
 
 ---
@@ -190,15 +189,14 @@ Satay Level:  ██████████ 100%
 ## 🎧 Currently Vibing To
 
 <p align="center">
-  I can't, i don't know why. How about this.<br>
-  Lunar Clock ~ Luna Dial
+  Random music
 </p>
 
 ---
 
 ## 💬 Random Quote
 
-> "First, think. Then, do it."
+> "First, think. Then, do it. After that? i don't know."
 
 ---
 
