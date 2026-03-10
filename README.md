@@ -82,7 +82,7 @@ Satay Level:  ██████████ 100%
 * Izayoi
    - Game (Work in Progress) 
 * Touhou: Adventure in a Fantasy World
-   -Tutorial + Game (completed, for now)
+  -Tutorial + Game (completed, for now)
 * Touhou: Scarlet Adventure
    - Game (Discontinued)
 * The 8 Colored Siblings
@@ -90,7 +90,7 @@ Satay Level:  ██████████ 100%
 
 ### 🤖 AI 
 
-# Discord
+1. Discord
    * Sora and her siblings
      - Interactive Bot (Temporarily Paused)
 ---
