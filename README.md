@@ -34,10 +34,10 @@ class Lisa:
 print(Lisa().greet())
 ```
 
-* 🎮 Love building interactive systems & games
-* 🧠 Idea generator (sometimes overload)
-* 🎨 Blender 3D + imagination
-* 🚀 Learning & improving
+* Love building interactive systems & games
+* Idea generator (sometimes overload)
+* Blender 3D + imagination
+* Learning & improving (kinda)
 
 ---
 
@@ -67,33 +67,32 @@ Sleep Management     ██░░░░░░░░░ 20%
 ## ⚙️ System Status
 
 ```
-Brain:        █████████░░ 90%
-Motivation:   ████████░░░ 80%
+Brain:        ██████████░ 90%
+Motivation:   ███████░░░░ 70%
 Sleep:        ███░░░░░░░░ 30%
 Satay Level:  ██████████ 100%
 ```
 
 ---
 
-## 🎮 Featured Projects
+## 🎮 Projects
 
-### 🕹 Visual Novel Project
+### 🕹 Visual Novel
 
-* Built using Python
-* Custom dialogue system
-* Secret
-* Story-driven gameplay
+* Izayoi
+   - Game (Work in Progress) 
+* Touhou: Adventure in a Fantasy World
+   -Tutorial + Game (completed, for now)
+* Touhou: Scarlet Adventure
+   - Game (Discontinued)
+* The 8 Colored Siblings
+   - Game (Planned)
 
-### ?
+### 🤖 AI 
 
-* ?
-* ?
-
-### ?
-
-* ?
-* ?
-
+# Discord
+   * Sora and her siblings
+     - Interactive Bot (Temporarily Paused)
 ---
 
 ## 📈 Stats
