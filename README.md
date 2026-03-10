@@ -13,11 +13,13 @@
   <img src="https://img.shields.io/badge/Focus-Game%20Development-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Learning-Sometimes-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Favorite-Satay%20%26%20Indomie-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Game-Touhou%20Project-red?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=NameIsLisa&label=Profile%20Views&color=blueviolet&style=for-the-badge">
 </p>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
 ```python
 class Lisa:
@@ -41,11 +43,11 @@ print(Lisa().greet())
 
 ---
 
-### 💻 Languages
+# 💻 Languages
 
 * Python
 
-### 🔧 Tools & Frameworks
+# 🔧 Tools & Frameworks
 
 * Laravel
 * Android Studio
@@ -54,7 +56,7 @@ print(Lisa().greet())
 
 ---
 
-## 📊 Skill Progress
+# 📊 Skill Progress
 
 Game Development     █████████░░ 85%
 Mobile Development   ██░░░░░░░░░ 20%
@@ -64,38 +66,53 @@ Sleep Management     ██░░░░░░░░░ 20%
 
 ---
 
-## ⚙️ System Status
+# ⚙️ System Status
 
 ```
 Brain:        ██████████░ 90%
 Motivation:   ███████░░░░ 70%
 Sleep:        ███░░░░░░░░ 30%
 Satay Level:  ██████████ 100%
+Lazy:         Hehe...
 ```
 
 ---
 
-## 🎮 Projects
+# 💻 Projects
 
-### 🕹 Visual Novel
+## 🎮 Game
 
-* Izayoi
-   - Game (Work in Progress) 
-* Touhou: Adventure in a Fantasy World
-  -Tutorial + Game (completed, for now)
-* Touhou: Scarlet Adventure
-   - Game (Discontinued)
-* The 8 Colored Siblings
-   - Game (Planned)
+ ### 🕹 Visual Novel
+ 
+  * Izayoi
+     - Puzzle Game (Work in Progress) 
+  * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)
+    - Ren'py Tutorial + Game (The tutorial is done, for now. The game isn't, hehe)
+  * Touhou: Scarlet Adventure
+     - Game (Temporarily Paused or Discontinued)
+  * The 8 Colored Siblings
+     - Game (Planned)
 
-### 🤖 AI 
+  ### 🗺 Open World
+   * Journey
+      - Puzzle, Action, Adventure, Comedy. (The ideas are ready)
+          - (For now i can't, the reason is the same as animation.)
+
+## 🤖 AI 
 
 1. Discord
+   * Sora
+     - Images Bot (Discontinued. Move to Sora and her siblings)
    * Sora and her siblings
      - Interactive Bot (Temporarily Paused)
+
+## ▶ Animation
+
+  * (Unfortunately... My laptop's specs are low, I'm lucky it's still alive... even though it often throws tantrums.)
+    
 ---
 
-## 📈 Stats
+# 📈 Stats
 
 <p align="center">
   My Stats
@@ -108,7 +125,7 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
 * Improve backend architecture
 * Finish personal game project
@@ -117,7 +134,7 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 💖 Food
+# 💖 Food
 > Satay.
 > Satay.
 > Satay.
@@ -126,19 +143,18 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 📫
+# 📫
 
-* GitHub(you're already here): [https://github.com/NameIsLisa](https://github.com/NameIsLisa)
+* GitHub: [(You're Already Here)](https://github.com/NameIsLisa)
 * Email: Nope
-* Discord: -
+* Discord: Next Time
 
 ---
 
-## 🎵 Not Important Note
+# 🎵 Not Important Note
 
 <details>
 <summary>⚠️ DO NOT OPEN ⚠️</summary>
-
 [https://youtu.be/xvFZjo5PgG0](https://youtu.be/xvFZjo5PgG0)
 
 </details>
@@ -146,12 +162,13 @@ Satay Level:  ██████████ 100%
 ---
 
 <p align="center">
+  Use Dark Mode<br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;README.md;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;Lazy;Still+Here+Eh?" />
 </p>
 
 ---
 
-## 🐍
+# 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -160,7 +177,7 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   I DON'T HAVE ANY AHAHAHA
@@ -168,7 +185,7 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 📊 Activity Graph
+# 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NameIsLisa&theme=tokyo-night" />
@@ -176,32 +193,23 @@ Satay Level:  ██████████ 100%
 
 ---
 
-## 👀
+# 👀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NameIsLisa&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> <br>
-  ohh...
+  Insert cool text here.
 </p>
 
 ---
 
-## 🎧 Currently Vibing To
+# 💬 Random Quote
 
-<p align="center">
-  Random music
-</p>
+> "First, think. Then, do it. After that? I don't know."
 
 ---
 
-## 💬 Random Quote
-
-> "First, think. Then, do it. After that? i don't know."
-
----
-
-<h3 align="center">🌟 README under construction 🌟</h3>
+<h3 align="center">🌟 FINAL README 🌟</h3>
 <p align="center">
-Still evolving. Just like my code.
+Just kidding.
 </p>
 
 
