@@ -18,6 +18,7 @@
 </p>
 
 ---
+![y75zei-inu-sakuya](https://github.com/user-attachments/assets/d0cac81a-9fa0-4414-9e38-e66becb1edfa)
 
 # 🌸 About Me
 
@@ -45,7 +46,7 @@ print(Lisa().greet())
 
 # 💻 Languages
 
-* Python
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 
 # 🔧 Tools & Frameworks
 
@@ -58,11 +59,13 @@ print(Lisa().greet())
 
 # 📊 Skill Progress
 
+```
 Game Development     █████████░░ 85%
 Mobile Development   ██░░░░░░░░░ 20%
 Backend Logic        ███████░░░░ 70%
 UI/UX Design         █████████░░ 85%
 Sleep Management     ██░░░░░░░░░ 20%
+```
 
 ---
 
