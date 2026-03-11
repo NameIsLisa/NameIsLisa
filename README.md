@@ -163,15 +163,15 @@ Lazy:         Hehe...
 <details>
 <summary>🎮 [STEAM] Play Working Sakuya (Free Download) 📥</summary>
 <p align="center">
-  <img src="https://github.com" width="160">
+  <img src="NEVER GONNA GIVE YOU UP" width="160">
   <br>
   <b>Sakuya Izayoi is waiting for you in the mansion...</b>
   <br><br>
-  <a href="https://www.youtube.com">
+  <a href="NEVER GONNA GIVE YOU UP">
     <img src="https://img.shields.io" />
   </a>
   <br>
-  <a href="https://www.youtube.com">
+  <a href="NEVER GONNA GIVE YOU UP">
     <sub>Launch: WORKING_SAKUYA_V.0.1.EXE</sub>
   </a>
 </p>
