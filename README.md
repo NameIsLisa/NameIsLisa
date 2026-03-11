@@ -2,6 +2,10 @@
   <img src="jangan itupng.png" alt="Lisa GitHub Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0cac81a-9fa0-4414-9e38-e66becb1edfa" width="200" />
+</p>
+
 <h1 align="center">✨ Hi there 👋 I'm Lisa ✨</h1>
 
 <p align="center">
@@ -18,7 +22,6 @@
 </p>
 
 ---
-![y75zei-inu-sakuya](https://github.com/user-attachments/assets/d0cac81a-9fa0-4414-9e38-e66becb1edfa)
 
 # 🌸 About Me
 
@@ -35,6 +38,7 @@ class Lisa:
         return "Nice to meet you 👋"
 
 print(Lisa().greet())
+
 ```
 
 * Love building interactive systems & games
