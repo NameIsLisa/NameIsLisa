@@ -158,12 +158,23 @@ Lazy:         Hehe...
 
 ---
 
-# 🎵 Not Important Note
+# ❕ Not Important Note
 
 <details>
-<summary>⚠️ DO NOT OPEN ⚠️</summary>
-[https://youtu.be/xvFZjo5PgG0](https://youtu.be/xvFZjo5PgG0)
-
+<summary>🎮 [STEAM] Play Working Sakuya (Free Download) 📥</summary>
+<p align="center">
+  <img src="https://github.com" width="160">
+  <br>
+  <b>Sakuya Izayoi is waiting for you in the mansion...</b>
+  <br><br>
+  <a href="https://www.youtube.com">
+    <img src="https://img.shields.io" />
+  </a>
+  <br>
+  <a href="https://www.youtube.com">
+    <sub>Launch: WORKING_SAKUYA_V.0.1.EXE</sub>
+  </a>
+</p>
 </details>
 
 ---
