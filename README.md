@@ -72,10 +72,10 @@ Sleep Management     ██░░░░░░░░░ 20%
 # ⚙️ System Status
 
 ```
-Brain:        ██████████░ 90%
 Motivation:   ███████░░░░ 70%
 Sleep:        ███░░░░░░░░ 30%
 Satay Level:  ██████████ 100%
+Laptop:       Tantrum😊
 Lazy:         Hehe...
 ```
 
