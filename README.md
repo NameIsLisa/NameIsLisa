@@ -167,12 +167,12 @@ Lazy:         Hehe...
   <br>
   <b>Sakuya Izayoi is waiting for you in the mansion...</b>
   <br><br>
-  <a href="NEVER GONNA GIVE YOU UP">
+  <a href="[NEVER GONNA GIVE YOU UP](https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_)">
     <img src="https://img.shields.io" />
   </a>
   <br>
-  <a href="NEVER GONNA GIVE YOU UP">
-    <sub>Launch: WORKING_SAKUYA_V.0.1.EXE</sub>
+  <a href="https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_">
+    <sub>Download WORKING_SAKUYA_V.0.1</sub>
   </a>
 </p>
 </details>
