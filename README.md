@@ -229,9 +229,14 @@ Just kidding.
 </p>
 
 ---
-Not mine, but... won't you please help her?
-[![NOOO SAKUYAAA](https://img.youtube.com/vi/l3a0Yq0uHn0/0.jpg)](https://www.youtube.com/watch?v=l3a0Yq0uHn0) 
+<p align="center"> Not mine, but... won't you please help her? </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=l3a0Yq0uHn0">
+    <img src="https://img.youtube.com/vi/l3a0Yq0uHn0/0.jpg" alt="NOOO SAKUYAAA">
+  </a>
+</p>
+  
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
