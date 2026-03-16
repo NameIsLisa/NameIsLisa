@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jangan itupng.png" alt="Lisa GitHub Banner" width="100%" />
+  <img src="jangan itu.png" alt="Lisa GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -44,8 +44,42 @@ print(Lisa().greet())
 * Love building interactive systems & games
 * Idea generator (sometimes overload)
 * Blender 3D + imagination
-* Learning & improving (kinda)
+* Learning & improving (at my own pace, hehe)
 
+---
+
+# 💻 Projects
+
+## 🎮 Game
+
+ ### 🕹 Visual Novel
+ 
+  * Izayoi
+     - Puzzle Game (Work in Progress) 
+  * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)
+    - Ren'py Tutorial + Game (The tutorial is done, for now. The game isn't, hehe)
+  * Touhou: Scarlet Adventure
+     - Game (Temporarily Paused or Discontinued)
+  * The 8 Colored Siblings
+     - Game (Planned)
+
+  ### 🗺 Open World
+   * Journey
+      - Puzzle, Action, Adventure, Comedy. (The ideas are ready)
+          - (<i>For now i can't, the reason is the same as animation.</i>)
+
+## 🤖 AI 
+
+1. Discord
+   * Sora
+     - Images Bot (Discontinued. Move to Sora and her siblings)
+   * Sora and her siblings
+     - Interactive Bot (Temporarily Paused)
+
+## ▶ Animation
+
+  * (<i>On Hold. My laptop currently throws tantrums if I try to render things.</i>)
+    
 ---
 
 # 💻 Languages
@@ -85,38 +119,13 @@ Lazy:         Hehe...
 
 ---
 
-# 💻 Projects
+# 🎯 Current Goals
 
-## 🎮 Game
+* Improve backend architecture
+* Finish personal game project
+* Turn ideas into real
+* Keep sleeping and lying down (don't do the same thing, it's not good for your health)
 
- ### 🕹 Visual Novel
- 
-  * Izayoi
-     - Puzzle Game (Work in Progress) 
-  * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)
-    - Ren'py Tutorial + Game (The tutorial is done, for now. The game isn't, hehe)
-  * Touhou: Scarlet Adventure
-     - Game (Temporarily Paused or Discontinued)
-  * The 8 Colored Siblings
-     - Game (Planned)
-
-  ### 🗺 Open World
-   * Journey
-      - Puzzle, Action, Adventure, Comedy. (The ideas are ready)
-          - (For now i can't, the reason is the same as animation.)
-
-## 🤖 AI 
-
-1. Discord
-   * Sora
-     - Images Bot (Discontinued. Move to Sora and her siblings)
-   * Sora and her siblings
-     - Interactive Bot (Temporarily Paused)
-
-## ▶ Animation
-
-  * (Unfortunately... My laptop's specs are low, I'm lucky it's still alive... even though it often throws tantrums.)
-    
 ---
 
 # 📈 Stats
@@ -129,15 +138,37 @@ Lazy:         Hehe...
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  I DON'T HAVE ANY AHAHAHA
+</p>
 
 ---
 
-# 🎯 Current Goals
+# 📊 Activity Graph
 
-* Improve backend architecture
-* Finish personal game project
-* Turn ideas into real
-* Keep sleeping and lying down (don't do the same thing, it's not good for your health)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NameIsLisa&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+# 👀
+
+<p align="center">
+  Insert cool text here.
+</p>
 
 ---
 
@@ -153,8 +184,14 @@ Lazy:         Hehe...
 # 📫
 
 * GitHub: [(You're Already Here)](https://github.com/NameIsLisa)
-* Email: Nope
+* Email: NExt Time
 * Discord: Next Time
+
+---
+
+# 💬 Random Quote
+
+> "First, think. Then, do it. After that? I don't know."
 
 ---
 
@@ -183,45 +220,6 @@ Lazy:         Hehe...
   Use Dark Mode<br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;README.md;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;Lazy;Still+Here+Eh?" />
 </p>
-
----
-
-# 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  I DON'T HAVE ANY AHAHAHA
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NameIsLisa&theme=tokyo-night" />
-</p>
-
----
-
-# 👀
-
-<p align="center">
-  Insert cool text here.
-</p>
-
----
-
-# 💬 Random Quote
-
-> "First, think. Then, do it. After that? I don't know."
 
 ---
 
