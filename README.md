@@ -228,6 +228,9 @@ Lazy:         Hehe...
 Just kidding.
 </p>
 
+---
+
+[![NOOO SAKUYAAA](https://img.youtube.com/vi/l3a0Yq0uHn0/0.jpg)](https://www.youtube.com/watch?v=l3a0Yq0uHn0) 
 
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
