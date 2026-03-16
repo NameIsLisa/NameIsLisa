@@ -15,10 +15,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Game%20Development-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Learning-Sometimes-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Favorite-Satay%20%26%20Indomie-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning-Sometimes-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Food-Satay%20%26%20Indomie-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Game-Touhou%20Project-red?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=NameIsLisa&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Character-Izayoi%20Sakuya-blue?style=for-the-badge">
 </p>
 
 ---
@@ -202,14 +202,14 @@ Lazy:         Hehe...
 <p align="center">
   <img src="NEVER GONNA GIVE YOU UP" width="160">
   <br>
-  <b>Sakuya Izayoi is waiting for you in the mansion...</b>
+  <b>U sure want this?</b>
   <br><br>
   <a href="[NEVER GONNA GIVE YOU UP](https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_)">
     <img src="https://img.shields.io" />
   </a>
   <br>
   <a href="https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_">
-    <sub>Download WORKING_SAKUYA_V.0.1</sub>
+    <sub>Download WORKING_SAKUYA</sub>
   </a>
 </p>
 </details>
@@ -218,7 +218,7 @@ Lazy:         Hehe...
 
 <p align="center">
   Use Dark Mode<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;README.md;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;Lazy;Still+Here+Eh?" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;README.md;Hey+Mister;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;ZA!+WARUDO!;Lazy;NEVER+GONNA+GIVE+YOU+UP!;HAHA+GOT+YOU!;Still+Here+Eh?;Did+You+Know?;Sakuya+Izayoi;Is+NOT+Sakuya's+Real+Name" />
 </p>
 
 ---
@@ -229,7 +229,7 @@ Just kidding.
 </p>
 
 ---
-<p align="center"> Not mine, but... won't you please help her? </p>
+<p align="center"><b> Not mine, but... won't someone please help her? </b></p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=l3a0Yq0uHn0">
