@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>🎮 Game Dev 🎮</b><br>
-  UI/UX • Turning Chaos Ideas into Reality (sometimes)
+  UI/UX • Turning chaotic ideas into reality (sometimes)
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ print(Lisa().greet())
      - Genre: Adventure
      - Status: Temporarily Paused or Discontinued
   * The 8 Colored Siblings     
-     - Engine: ?
+     - Engine: TBD
      - Status: Planned
 
   ### 🗺 Open World
@@ -115,10 +115,9 @@ UI/UX Design         █████████░░ 85%
 # ⚙️ System Status
 
 ```
-Motivation:   ███████░░░░ 70%
-Sleep:        ███░░░░░░░░ 30%
-Satay Level:  ██████████ 100%
-Laptop:       Tantrum😊
+Motivation: ███████░░░░ 70%
+Focus: ██████░░░░░ 60%
+Laptop: Slightly unstable
 ```
 
 ---
@@ -129,8 +128,10 @@ Laptop:       Tantrum😊
 Sleep:        ██████████ 110%
 Energy:       ███░░░░░░░░ 30%
 Ideas:        ███████████ 200%
+Satay Level:  ██████████ 100%
 Execution:    ██░░░░░░░░░ Loading...
 Sleep Management: ███████████ 120%
+
 Problem: Too much sleep, still tired.
 ```
 
@@ -235,7 +236,7 @@ Problem: Too much sleep, still tired.
 
 ---
 
-<h2 align="center">⚡ Built with chaos, imagination, and a bit of sleep overloaded ⚡</h2>
+<h2 align="center">⚡ Built with chaos, imagination, and an overloaded sleep system ⚡</h2>
 <p align="center">
 🌟 FINAL README 🌟
 </p>
