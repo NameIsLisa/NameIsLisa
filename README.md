@@ -1,3 +1,8 @@
+## 🎭 Choose Mode
+
+<details open>
+<summary>Clasic Mode</summary>
+
 <p align="center">
   <img src="jangan itu.png" alt="Lisa GitHub Banner" width="100%" />
 </p>
@@ -250,6 +255,162 @@ Problem: Too much sleep, still tired.
     <img src="https://img.youtube.com/vi/l3a0Yq0uHn0/0.jpg" alt="NOOO SAKUYAAA">
   </a>
 </p>
+
+</details>
+
+<details>
+<summary>Normal Mode (Belum selesai, beri aku waktu 😅)</summary>
+
+### 👩‍💻 About Me
+
+Software & Game Development student with interest in:
+- Game Development
+- UI/UX Design
+- Interactive Systems
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+- Python
+- PHP
+- Dart (Flutter)
+- Kotlin (basic)
+
+**Tools**
+- Laravel
+- Android Studio
+- VS Code
+- Blender 3D
+
+---
+
+### 📂 Projects
+
+**Izayoi**  
+- Engine: Ren'Py  
+- Genre: Puzzle Visual Novel  
+- Status: In Development  
+
+**Touhou: Adventure in a Fantasy World**  
+- Engine: Ren'Py  
+- Status: Ongoing  
+
+---
+
+### 🎯 Goals
+
+- Improve backend architecture  
+- Complete personal game projects  
+- Strengthen UI/UX design skills  
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+⚡ Built with chaos, imagination, and an overloaded sleep system ⚡
+</p>
+
+</details>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 🧠 Lore
+...Sedikit game lore gapapa kan?😁
+
+<details>
+<summary>Access Restricted File</summary>
+
+
+---
+
+### 📁 Subject: ????
+
+- Status: Exists across multiple universes  
+- Behavior: Rarely speaks  
+- Personality: Cold, distant… but not empty  
+
+> "She is not the main character.  
+> But somehow, everything connects to her."
+
+---
+
+### 🌌 Multiverse Log
+
+There is not just one version of her.
+
+There are many.
+
+Some are:
+- Observing  
+- Acting  
+- Or… controlled by something beyond their world  
+
+Some universes branch.  
+Some collapse.  
+Some repeat.
+
+She exists in all of them.
+
+But not always the same.
+
+---
+
+### 🧩 System Note
+
+> "Separation between user and subject is… unclear."
+
+---
+
+### 📁 Related Entities
+
+- Garven  
+- Maximus  
+- Thomas  
+- Alex  
+- Lisa  
+- Veria  
+- Mia  
+- Sora  
+
+> Status: Connected
+
+---
+
+### ⚠️ Warning
+
+Do not attempt to understand everything.
+
+Not yet.
+
+</details>
+
+
+
+
   
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -264,4 +425,71 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Kamu penasaran ya...?
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- If you found this, you're not supposed to -->
+<!-- ????: I̷ ̴r̵e̷a̴l̸i̶z̷e̴ ̶y̵o̸u̷r̵ ̴e̶x̷i̸s̶t̵e̴n̷c̶e̵... -->
