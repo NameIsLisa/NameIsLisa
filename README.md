@@ -9,8 +9,8 @@
 <h1 align="center">✨ Hi there 👋 I'm Lisa ✨</h1>
 
 <p align="center">
-  <b>Software & Game Development Student</b><br>
-  Code • Game • UI/UX • Interactive Systems
+  <b>🎮 Game Dev 🎮</b><br>
+  UI/UX • Turning Chaos Ideas into Reality (sometimes)
 </p>
 
 <p align="center">
@@ -55,13 +55,19 @@ print(Lisa().greet())
  ### 🕹 Visual Novel
  
   * Izayoi
-     - Puzzle Game (Work in Progress) 
-  * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)
-    - Ren'py Tutorial + Game (The tutorial is done, for now. The game isn't, hehe)
+     - Engine: Ren'Py   
+     - Genre: Puzzle Visual Novel  
+     - Status: In Development  
+  * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)  
+     - Engine: Ren'Py  
+     - Status: Tutorial Complete, Game Ongoing   
   * Touhou: Scarlet Adventure
-     - Game (Temporarily Paused or Discontinued)
-  * The 8 Colored Siblings
-     - Game (Planned)
+     - Engine: Ren'Py
+     - Genre: Adventure
+     - Status: Temporarily Paused or Discontinued
+  * The 8 Colored Siblings     
+     - Engine: ?
+     - Status: Planned
 
   ### 🗺 Open World
    * Journey
@@ -102,7 +108,6 @@ Game Development     █████████░░ 85%
 Mobile Development   ██░░░░░░░░░ 20%
 Backend Logic        ███████░░░░ 70%
 UI/UX Design         █████████░░ 85%
-Sleep Management     ██░░░░░░░░░ 20%
 ```
 
 ---
@@ -114,7 +119,19 @@ Motivation:   ███████░░░░ 70%
 Sleep:        ███░░░░░░░░ 30%
 Satay Level:  ██████████ 100%
 Laptop:       Tantrum😊
-Lazy:         Hehe...
+```
+
+---
+
+# 🧪 Experimental Stats (Not Reliable)
+
+```
+Sleep:        ██████████ 110%
+Energy:       ███░░░░░░░░ 30%
+Ideas:        ███████████ 200%
+Execution:    ██░░░░░░░░░ Loading...
+Sleep Management: ███████████ 120%
+Problem: Too much sleep, still tired.
 ```
 
 ---
@@ -124,7 +141,7 @@ Lazy:         Hehe...
 * Improve backend architecture
 * Finish personal game project
 * Turn ideas into real
-* Keep sleeping and lying down (don't do the same thing, it's not good for your health)
+* Maintain better work-life balance (still learning 😅)
 
 ---
 
@@ -143,7 +160,7 @@ Lazy:         Hehe...
 # 🏆 GitHub Trophies
 
 <p align="center">
-  I DON'T HAVE ANY AHAHAHA
+  Working on it... 👀
 </p>
 
 ---
@@ -167,7 +184,7 @@ Lazy:         Hehe...
 # 👀
 
 <p align="center">
-  Insert cool text here.
+  “Not all ideas are meant to be understood.”
 </p>
 
 ---
@@ -184,7 +201,7 @@ Lazy:         Hehe...
 # 📫
 
 * GitHub: [(You're Already Here)](https://github.com/NameIsLisa)
-* Email: NExt Time
+* Email: Next Time
 * Discord: Next Time
 
 ---
@@ -200,13 +217,8 @@ Lazy:         Hehe...
 <details>
 <summary>🎮 [STEAM] Play Working Sakuya (Free Download) 📥</summary>
 <p align="center">
-  <img src="NEVER GONNA GIVE YOU UP" width="160">
   <br>
-  <b>U sure want this?</b>
-  <br><br>
-  <a href="[NEVER GONNA GIVE YOU UP](https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_)">
-    <img src="https://img.shields.io" />
-  </a>
+  <b>Download (100% safe totally not suspicious)</b>
   <br>
   <a href="https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_">
     <sub>Download WORKING_SAKUYA</sub>
@@ -218,15 +230,16 @@ Lazy:         Hehe...
 
 <p align="center">
   Use Dark Mode<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;README.md;Hey+Mister;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;ZA!+WARUDO!;Lazy;NEVER+GONNA+GIVE+YOU+UP!;HAHA+GOT+YOU!;Still+Here+Eh?;Did+You+Know?;Sakuya+Izayoi;Is+NOT+Sakuya's+Real+Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Overloaded+Sleep+System;README.md;Hey+Mister;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;ZA!+WARUDO!;Lazy;NEVER+GONNA+GIVE+YOU+UP!;HAHA+GOT+YOU!;Still+Here+Eh?;Did+You+Know?;Sakuya+Izayoi;Is+NOT+Sakuya's+Real+Name" />
 </p>
 
 ---
 
-<h3 align="center">🌟 FINAL README 🌟</h3>
+<h2 align="center">⚡ Built with chaos, imagination, and a bit of sleep overloaded ⚡</h2>
 <p align="center">
-Just kidding.
+🌟 FINAL README 🌟
 </p>
+<h6 align="center">Just kidding.</h6>
 
 ---
 <p align="center"><b> Not mine, but... won't someone please help her? </b></p>
