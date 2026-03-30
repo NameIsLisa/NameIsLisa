@@ -1,7 +1,7 @@
 ## 🎭 Choose Mode
 
 <details open>
-<summary>Clasic Mode</summary>
+<summary>Classic Mode</summary>
 
 <p align="center">
   <img src="jangan itu.png" alt="Lisa GitHub Banner" width="100%" />
@@ -338,8 +338,8 @@ Software & Game Development student with interest in:
 <br>
 <br>
 
-## 🧠 Lore
-...Sedikit game lore gapapa kan?😁
+
+
 
 <details>
 <summary>Access Restricted File</summary>
