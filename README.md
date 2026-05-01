@@ -4,7 +4,7 @@
 <summary>Classic Mode</summary>
 
 <p align="center">
-  <img src="jangan itu.png" alt="Lisa GitHub Banner" width="100%" />
+  <img src="jangan itu.png" />
 </p>
 
 <p align="center">
@@ -195,11 +195,7 @@ Problem: Too much sleep, still tired.
 ---
 
 # 💖 Food
-> Satay.
-> Satay.
-> Satay.
-> Satay.
-> INDOMIE KUAH.
+"Fueled by Satay and a questionable amount of Indomie." 🍜
 
 ---
 
@@ -244,7 +240,7 @@ Problem: Too much sleep, still tired.
 <p align="center">
 🌟 FINAL README 🌟
 </p>
-<h6 align="center">Just kidding.</h6>
+<h6 align="center">Just kidding (setidaknya ini kurang anehnya dari sebelumnya...)</h6>
 
 ---
 <p align="center"><b> Not mine, but... won't someone please help her? </b></p>
@@ -341,71 +337,18 @@ Software & Game Development student with interest in:
 
 
 <details>
-<summary>Access Restricted File</summary>
-
-
----
-
-### 📁 Subject: ????
-
-- Status: Exists across multiple universes  
-- Behavior: Rarely speaks  
-- Personality: Cold, distant… but not empty  
-
-> "She is not the main character.  
-> But somehow, everything connects to her."
-
----
-
-### 🌌 Multiverse Log
-
-There is not just one version of her.
-
-There are many.
-
-Some are:
-- Observing  
-- Acting  
-- Or… controlled by something beyond their world  
-
-Some universes branch.  
-Some collapse.  
-Some repeat.
-
-She exists in all of them.
-
-But not always the same.
-
----
-
-### 🧩 System Note
-
-> "Separation between user and subject is… unclear."
-
----
-
-### 📁 Related Entities
-
-- G.....  
-- M......
-- T.....
-- A...
-- L...
-- V....
-- M..  
-- S... 
-
-> Status: Connected
-
----
-
-### ⚠️ Warning
-
-Do not attempt to understand everything.
-
-Not yet.
-
+<summary><b>[SYSTEM_LOG] Access Level: Restricted</b></summary>
+<pre>
+- UUID: SUBJECT_????_00
+- STATUS: STABLE (Mostly)
+- LOCATION: ???????_SUBSYSTEM
+-------------------------------
+> Initializing connection...
+> Connection to M...... [FAILED]
+> "Not all stars are meant to be reached."
+</pre>
 </details>
+
 
 
 
