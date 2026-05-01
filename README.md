@@ -15,7 +15,7 @@
 
 <p align="center">
   <b>🎮 Game Dev 🎮</b><br>
-  UI/UX • Turning chaotic ideas into reality (sometimes)
+  UI/UX • Turning random ideas into reality (sometimes)
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ print(Lisa().greet())
      - Status: In Development  
   * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)  
      - Engine: Ren'Py  
-     - Status: Tutorial Complete, Game Ongoing   
+     - Status: Tutorial Complete, Game On going   
   * Touhou: Scarlet Adventure
      - Engine: Ren'Py
      - Genre: Adventure
@@ -76,14 +76,14 @@ print(Lisa().greet())
 
   ### 🗺 Open World
    * Journey
-      - Puzzle, Action, Adventure, Comedy. (The ideas are ready)
+      - Puzzle, Action, Adventure. (The ideas are ready)
           - (<i>For now i can't, the reason is the same as animation.</i>)
 
 ## 🤖 AI 
 
 1. Discord
    * Sora
-     - Images Bot (Discontinued. Move to Sora and her siblings)
+     - Images Bot (Discontinued)
    * Sora and her siblings
      - Interactive Bot (Temporarily Paused)
 
@@ -100,7 +100,7 @@ print(Lisa().greet())
 # 🔧 Tools & Frameworks
 
 * Laravel
-* Android Studio
+* Android Studio (take this away form me)
 * VS Code
 * Blender 3D
 
@@ -130,12 +130,11 @@ Laptop: Slightly unstable
 # 🧪 Experimental Stats (Not Reliable)
 
 ```
-Sleep:        ██████████ 110%
+Sleep:        Too much...
 Energy:       ███░░░░░░░░ 30%
 Ideas:        ███████████ 200%
 Satay Level:  ██████████ 100%
-Execution:    ██░░░░░░░░░ Loading...
-Sleep Management: ███████████ 120%
+Execution:    Loading...
 
 Problem: Too much sleep, still tired.
 ```
@@ -387,14 +386,14 @@ But not always the same.
 
 ### 📁 Related Entities
 
-- Garven  
-- Maximus  
-- Thomas  
-- Alex  
-- Lisa  
-- Veria  
-- Mia  
-- Sora  
+- G.....  
+- M......
+- T.....
+- A...
+- L...
+- V....
+- M..  
+- S... 
 
 > Status: Connected
 
@@ -493,3 +492,4 @@ Kamu penasaran ya...?
 
 <!-- If you found this, you're not supposed to -->
 <!-- ????: I̷ ̴r̵e̷a̴l̸i̶z̷e̴ ̶y̵o̸u̷r̵ ̴e̶x̷i̸s̶t̵e̴n̷c̶e̵... -->
+<!-- NEVER GONNA GIVE YOU UP -->
