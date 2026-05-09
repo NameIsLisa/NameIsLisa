@@ -1,4 +1,5 @@
 # 🎭 Choose Mode
+<sub> Different modes. Same person. Probably. <sub>
 
 <div align="center">
 
@@ -21,7 +22,78 @@
 ---
 
 <details open>
+<summary>🌱 Normal Mode</summary>
+
+<br>
+
+<div align="center">
+
+# 🌱 Normal Mode
+
+Software & Game Development Student
+
+<img src="https://img.shields.io/badge/Status-Chilling-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Mood-Curious-8ecae6?style=for-the-badge">
+<img src="https://img.shields.io/badge/README-Probably%20Normal-6ab04c?style=for-the-badge">
+
+> I make games, random ideas, and sometimes questionable decisions.
+
+</div>
+
+---
+
+### 🎮 Interests
+
+- Game Development
+- UI/UX Design
+- Interactive Systems
+- Random project ideas at midnight
+
+---
+
+### 🛠 Tools I Usually Use
+
+- Python
+- Laravel
+- Blender 3D
+- VS Code
+- Ren'Py
+
+---
+
+### 📌 Current Status
+
+```txt
+Learning new things...
+Trying to finish projects...
+Probably adding unnecessary features again.
+```
+
+<div align="center">
+    
+“Not everything here is serious. Most of it started because I was bored.”
+
+</div> 
+</details> 
+
+---
+
+<details>
 <summary><b>🌸 Classic Mode</b></summary>
+
+<br>
+
+<div align="center">
+    
+# 🌸 Classic Mode
+
+<img src="https://img.shields.io/badge/Brain-Overloaded-ff69b4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sleep-Optional-6a4c93?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ideas-Too%20Many-ffb703?style=for-the-badge">
+<img src="https://img.shields.io/badge/System-Mostly%20Stable-blueviolet?style=for-the-badge">
+    
+> Probably the intended version.
+</div>
 
 <br>
 
@@ -313,79 +385,6 @@ Sleep:         Too much, somehow still tired.
 ---
 
 <details>
-<summary><b>🧊 Normal Mode</b></summary>
-
-<br>
-
-## 👩‍💻 About Me
-
-Software & Game Development student interested in:
-
-* Game Development
-* UI/UX Design
-* Interactive Systems
-* Creative Storytelling
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-* Python
-* PHP
-* Dart (Flutter)
-* Kotlin (Basic)
-
-### Tools
-
-* Laravel
-* Blender 3D
-* VS Code
-* Android Studio
-
----
-
-## 📂 Projects
-
-### Izayoi
-
-* Engine: Ren'Py
-* Genre: Puzzle Visual Novel
-* Status: In Development
-
-### Touhou: Adventure in a Fantasy World
-
-* Engine: Ren'Py
-* Status: Ongoing
-
----
-
-## 🎯 Goals
-
-* Improve backend architecture
-* Complete personal game projects
-* Strengthen UI/UX design skills
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-⚡ Built with chaos, imagination, and an overloaded sleep system ⚡
-
-</div>
-
-</details>
-
-<details>
 <summary>🕰 Izayoi Mode</summary>
 
 <br>
@@ -394,7 +393,7 @@ Software & Game Development student interested in:
 
 # ❄ Izayoi Mode
 
-> “POV: Sakuya discovered GitHub." <br>
+> “POV: Sakuya discovered GitHub.” <br>
 > “Perfection requires silence.”
 
 <img src="https://img.shields.io/badge/Status-Operational-blue?style=for-the-badge">
@@ -416,16 +415,16 @@ Sleep Cycle  : Unknown
 Time Flow    : Distorted
 
 📂 Active Projects
-Izayoi
-Interactive Systems
-Experimental Concepts
-
-<div align="center">
-
-“Time flows differently here.”
+- Izayoi
+- Interactive Systems
+- Experimental Concepts
 ```
+<div align="center">
+    “Time flows differently here.”
 </div>
 </details>
+
+---
 
 <details>
 <summary>🩸 Scarlet Mode</summary>
@@ -458,21 +457,21 @@ Knife Count    : Classified
 Time Flow      : Unreliable
 
 🌹 Current Activities
-Guarding the mansion
-Preparing tea
-Questionable experiments
-Throwing knives professionally
-
-<div align="center">
-
-“Some doors should remain closed.”
+- Guarding the mansion
+- Preparing tea
+- Questionable experiments
+- Throwing knives professionally
 ```
+<div align="center">
+    “Some doors should remain closed.”
 </div> <br> 
 <p align="center"> 
   <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/touhou-sakuya.gif" width="350"> 
 </p>
 
 </details> 
+
+---
 
 <br><br><br>
 
@@ -550,18 +549,19 @@ was meant to exist."
 </details>
 
 <br><br>
+```txt
 README Patch Notes v1.7
 
-> + Added more unnecessary modes
-> + Stability improvements
-> - Sleep schedule removed
-<br>
-Current Status: <br>
-Probably fixing something unnecessary.
-<br>
-Current Mood: <br>
-Adding lore instead of sleeping.
++ Added more unnecessary modes
++ Stability improvements
+- Sleep schedule removed
 
+Current Status:
+Probably fixing something unnecessary.
+
+Current Mood:
+Adding lore instead of sleeping.
+```
 <br><br>
 
 <p align="center">
