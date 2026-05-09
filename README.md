@@ -1,32 +1,29 @@
-## 🎭 Choose Mode
+# 🎭 Choose Mode
 
-<details open>
-<summary>Classic Mode</summary>
+<div align="center">
 
-<p align="center">
-  <img src="jangan itu.png" />
-</p>
+<img src="https://github.com/user-attachments/assets/d0cac81a-9fa0-4414-9e38-e66becb1edfa" width="180" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d0cac81a-9fa0-4414-9e38-e66becb1edfa" width="200" />
-</p>
+# ✨ Hi there, I'm Lisa ✨
 
-<h1 align="center">✨ Hi there 👋 I'm Lisa ✨</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Software+%26+Game+Developer;UI%2FUX+Designer;Ren'Py+Enjoyer;Satay+Powered+Developer;Overloaded+Idea+Generator;ZA+WARUDO!;Touhou+Project+Fan;Still+Learning...+Always." />
 
-<p align="center">
-  <b>🎮 Game Dev 🎮</b><br>
-  UI/UX • Turning random ideas into reality (sometimes)
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Game%20Development-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Learning-Sometimes-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Food-Satay%20%26%20Indomie-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Game-Touhou%20Project-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Character-Izayoi%20Sakuya-blue?style=for-the-badge">
-</p>
+<img src="https://img.shields.io/badge/Focus-Game%20Development-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Learning-Everyday-F7C948?style=for-the-badge">
+<img src="https://img.shields.io/badge/Game-Touhou%20Project-E63946?style=for-the-badge">
+<img src="https://img.shields.io/badge/Character-Izayoi%20Sakuya-3A86FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Food-Satay%20%26%20Indomie-FF8800?style=for-the-badge">
+
+</div>
 
 ---
+
+<details open>
+<summary><b>🌸 Classic Mode</b></summary>
+
+<br>
 
 # 🌸 About Me
 
@@ -34,109 +31,154 @@
 class Lisa:
     def __init__(self):
         self.role = "Software & Game Dev Student"
-        self.passion = ["Game Dev", "UI/UX", "Interactive Systems"]
-        self.languages = ["Python"]
-        self.tools = ["VS Code", "Blender 3D"]
-        self.favorite_food = ["Satay", "Indomie Kuah"]
+        self.speciality = [
+            "Game Development",
+            "UI/UX",
+            "Interactive Systems"
+        ]
+
+        self.languages = ["Python", "PHP", "Dart"]
+        self.tools = [
+            "VS Code",
+            "Blender 3D",
+            "Laravel",
+            "Android Studio"
+        ]
+
+        self.energy = "Depends on sleep"
+        self.food = ["Satay", "Indomie"]
 
     def greet(self):
         return "Nice to meet you 👋"
 
 print(Lisa().greet())
-
 ```
 
-* Love building interactive systems & games
-* Idea generator (sometimes overload)
-* Blender 3D + imagination
-* Learning & improving (at my own pace, hehe)
+### ✨ Random Facts
+
+* 🎮 Loves creating games and weird concepts
+* 🧠 Sometimes gets too many ideas at once
+* 🎨 Blender + imagination = chaos
+* ☕ Sleep system may be unstable
+* 🌌 Not all projects are meant to stay normal
+* And btw, don't think too much about why this README has so many modes. I was bored :')
 
 ---
 
-# 💻 Projects
+# 💻 Main Projects
 
-## 🎮 Game
+## 🎮 Games
 
- ### 🕹 Visual Novel
- 
-  * Izayoi
-     - Engine: Ren'Py   
-     - Genre: Puzzle Visual Novel  
-     - Status: In Development  
-  * [Touhou: Adventure in a Fantasy World](https://github.com/NameIsLisa/Touhou-Adventure-In-A-Fantasy-World)  
-     - Engine: Ren'Py  
-     - Status: Tutorial Complete, Game On going   
-  * Touhou: Scarlet Adventure
-     - Engine: Ren'Py
-     - Genre: Adventure
-     - Status: Temporarily Paused or Discontinued
-  * The 8 Colored Siblings     
-     - Engine: TBD
-     - Status: Planned
+### 🕹 Visual Novel Projects
 
-  ### 🗺 Open World
-   * Journey
-      - Puzzle, Action, Adventure. (The ideas are ready)
-          - (<i>For now i can't, the reason is the same as animation.</i>)
+#### ✨ Izayoi
 
-## 🤖 AI 
+* Engine: **Ren'Py**
+* Genre: **Puzzle Visual Novel**
+* Status: **In Development**
 
-1. Discord
-   * Sora
-     - Images Bot (Discontinued)
-   * Sora and her siblings
-     - Interactive Bot (Temporarily Paused)
+#### 🌸 Touhou: Adventure in a Fantasy World
 
-## ▶ Animation
+* Engine: **Ren'Py**
+* Status: **Ongoing**
+* Progress: Tutorial Complete
 
-  * (<i>On Hold. My laptop currently throws tantrums if I try to render things.</i>)
-    
+#### 🩸 Touhou: Scarlet Adventure
+
+* Engine: **Ren'Py**
+* Genre: **Adventure**
+* Status: **Paused / Discontinued**
+
+#### 🌈 The 8 Colored Siblings
+
+* Engine: **TBD**
+* Status: **Planned**
+* Category: Story / Multi-universe Concept
+
 ---
 
-# 💻 Languages
+## 🌍 Open World Ideas
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+### 🚶 Journey
 
-# 🔧 Tools & Frameworks
+> Puzzle • Action • Adventure
 
-* Laravel
-* Android Studio (take this away form me)
-* VS Code
-* Blender 3D
+```txt
+Status: Idea Phase
+Reason: Laptop may explode if rendering starts.
+```
+
+---
+
+# 🤖 AI Projects
+
+### 💬 Discord Bots
+
+#### Sora
+
+* Image Recognition Bot
+* Status: Discontinued
+
+#### Sora & Her Siblings
+
+* Interactive System Bot
+* Status: Temporarily Paused
+
+---
+
+# 🎬 Animation
+
+```txt
+Rendering Status:
+████░░░░░░░░░░░ 25%
+Laptop Fan: MAXIMUM OVERDRIVE
+```
+
+> Currently on hold because rendering is basically a boss fight.
+
+---
+
+# 💻 Languages & Tools
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" />
+
+</div>
 
 ---
 
 # 📊 Skill Progress
 
-```
+```txt
 Game Development     █████████░░ 85%
-Mobile Development   ██░░░░░░░░░ 20%
-Backend Logic        ███████░░░░ 70%
 UI/UX Design         █████████░░ 85%
+Backend Logic        ███████░░░░ 70%
+Mobile Development   ██░░░░░░░░░ 20%
+Sleep Management     ░░░░░░░░░░░  0%
 ```
 
 ---
 
 # ⚙️ System Status
 
-```
+```txt
 Motivation: ███████░░░░ 70%
-Focus: ██████░░░░░ 60%
-Laptop: Slightly unstable
+Focus:      ██████░░░░░ 60%
+Energy:     ███░░░░░░░░ 30%
+Ideas:      ███████████ 200%
+Execution:  Loading...
 ```
 
----
-
-# 🧪 Experimental Stats (Not Reliable)
-
-```
-Sleep:        Too much...
-Energy:       ███░░░░░░░░ 30%
-Ideas:        ███████████ 200%
-Satay Level:  ██████████ 100%
-Execution:    Loading...
-
-Problem: Too much sleep, still tired.
+```diff
++ Status: Stable (Mostly)
+- Warning: Overthinking Detected
 ```
 
 ---
@@ -144,216 +186,389 @@ Problem: Too much sleep, still tired.
 # 🎯 Current Goals
 
 * Improve backend architecture
-* Finish personal game project
-* Turn ideas into real
-* Maintain better work-life balance (still learning 😅)
+* Finish personal game projects
+* Learn more about interactive systems
+* Turn imagination into reality
+* Survive Android Studio
 
 ---
 
-# 📈 Stats
+# 📈 GitHub Stats
 
-<p align="center">
-  My Stats
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
 
----
+<br><br>
 
-# 🏆 GitHub Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NameIsLisa&theme=tokyo-night" />
 
-<p align="center">
-  Working on it... 👀
-</p>
+</div>
 
 ---
 
-# 📊 Activity Graph
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NameIsLisa&theme=tokyo-night" />
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-# 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+</div>
 
 ---
 
-# 👀
+# 🧪 Experimental Stats
 
-<p align="center">
-  “Not all ideas are meant to be understood.”
-</p>
-
----
-
-# 💖 Food
-"Fueled by Satay and a questionable amount of Indomie." 🍜
-
----
-
-# 📫
-
-* GitHub: [(You're Already Here)](https://github.com/NameIsLisa)
-* Email: Next Time
-* Discord: Next Time
+```txt
+Jasmine Tea:  █████████░ 90%
+Satay Level:   ██████████ 100%
+Brain Status:  Overloaded
+Bug Amount:    Classified
+Sleep:         Too much, somehow still tired.
+```
 
 ---
 
 # 💬 Random Quote
 
-> "First, think. Then, do it. After that? I don't know."
+> "First, think. Then do it. After that? We improvise."
 
 ---
 
-# ❕ Not Important Note
+# 🍜 Developer Fuel
+
+<div align="center">
+
+## Fueled by Satay & a questionable amount of Indomie 🍜
+
+</div>
+
+---
+
+# 📫 Contact
+
+* GitHub: **You're already here**
+* Discord: `Maybe later`
+* Email: `Next Time`
+
+---
+
+# 👀 Hidden Message
+
+<div align="center">
+
+> "Not all ideas are meant to be understood."
+
+</div>
+
+---
+
+# ❕ Totally Important Note
 
 <details>
-<summary>🎮 [STEAM] Play Working Sakuya (Free Download) 📥</summary>
-<p align="center">
-  <br>
-  <b>Download (100% safe totally not suspicious)</b>
-  <br>
-  <a href="https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_">
-    <sub>Download WORKING_SAKUYA</sub>
-  </a>
-</p>
+<summary>🎮 [STEAM] Download Working Sakuya (Very Real)</summary>
+
+<br>
+
+<div align="center">
+
+**100% safe totally not suspicious**
+
+<a href="https://youtu.be/dQw4w9WgXcQ?si=Ij844doHzz9Uwrj_">
+  Download WORKING_SAKUYA
+</a>
+
+</div>
+
 </details>
 
 ---
 
-<p align="center">
-  Use Dark Mode<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Overloaded+Sleep+System;README.md;Hey+Mister;Sniff;Learning+New+Things;Oh+Hello!;Satay+Powered+Developer;Overload+Ideas;ZA!+WARUDO!;Lazy;NEVER+GONNA+GIVE+YOU+UP!;HAHA+GOT+YOU!;Still+Here+Eh?;Did+You+Know?;Sakuya+Izayoi;Is+NOT+Sakuya's+Real+Name" />
-</p>
+<div align="center">
+
+## ⚡ Built with chaos, imagination, and an overloaded sleep system ⚡
+
+### 🌟 README.md COMPLETE 🌟
+
+<sub>...or at least less chaotic than before.</sub>
+
+</div>
 
 ---
 
-<h2 align="center">⚡ Built with chaos, imagination, and an overloaded sleep system ⚡</h2>
-<p align="center">
-🌟 FINAL README 🌟
-</p>
-<h6 align="center">Just kidding (setidaknya ini kurang anehnya dari sebelumnya...)</h6>
+<div align="center">
 
----
-<p align="center"><b> Not mine, but... won't someone please help her? </b></p>
+<b>Not mine, but... won't someone please help her?</b>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=l3a0Yq0uHn0">
-    <img src="https://img.youtube.com/vi/l3a0Yq0uHn0/0.jpg" alt="NOOO SAKUYAAA">
-  </a>
-</p>
+<br><br>
+
+<a href="https://www.youtube.com/watch?v=l3a0Yq0uHn0">
+  <img src="https://img.youtube.com/vi/l3a0Yq0uHn0/0.jpg" width="500" />
+</a>
+
+</div>
 
 </details>
 
+---
+
 <details>
-<summary>Normal Mode (Belum selesai, beri aku waktu 😅)</summary>
+<summary><b>🧊 Normal Mode</b></summary>
 
-### 👩‍💻 About Me
+<br>
 
-Software & Game Development student with interest in:
-- Game Development
-- UI/UX Design
-- Interactive Systems
+## 👩‍💻 About Me
 
----
+Software & Game Development student interested in:
 
-### 🛠 Tech Stack
-
-**Languages**
-- Python
-- PHP
-- Dart (Flutter)
-- Kotlin (basic)
-
-**Tools**
-- Laravel
-- Android Studio
-- VS Code
-- Blender 3D
+* Game Development
+* UI/UX Design
+* Interactive Systems
+* Creative Storytelling
 
 ---
 
-### 📂 Projects
+## 🛠 Tech Stack
 
-**Izayoi**  
-- Engine: Ren'Py  
-- Genre: Puzzle Visual Novel  
-- Status: In Development  
+### Languages
 
-**Touhou: Adventure in a Fantasy World**  
-- Engine: Ren'Py  
-- Status: Ongoing  
+* Python
+* PHP
+* Dart (Flutter)
+* Kotlin (Basic)
 
----
+### Tools
 
-### 🎯 Goals
-
-- Improve backend architecture  
-- Complete personal game projects  
-- Strengthen UI/UX design skills  
+* Laravel
+* Blender 3D
+* VS Code
+* Android Studio
 
 ---
 
-## 📈 Stats
+## 📂 Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
-</p>
+### Izayoi
+
+* Engine: Ren'Py
+* Genre: Puzzle Visual Novel
+* Status: In Development
+
+### Touhou: Adventure in a Fantasy World
+
+* Engine: Ren'Py
+* Status: Ongoing
 
 ---
 
-<p align="center">
+## 🎯 Goals
+
+* Improve backend architecture
+* Complete personal game projects
+* Strengthen UI/UX design skills
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NameIsLisa&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
 ⚡ Built with chaos, imagination, and an overloaded sleep system ⚡
-</p>
+
+</div>
 
 </details>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<details>
+<summary>🕰 Izayoi Mode</summary>
+
 <br>
 
+<div align="center">
 
+# ❄ Izayoi Mode
 
+> “POV: Sakuya discovered GitHub." <br>
+> “Perfection requires silence.”
+
+<img src="https://img.shields.io/badge/Status-Operational-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Clock-Synchronized-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/Reality-Stable-1f2937?style=for-the-badge">
+
+</div>
+
+---
+
+```txt
+SYSTEM STATUS
+────────────────────────
+
+Focus        : Stable
+Precision    : High
+Emotion      : Suppressed
+Sleep Cycle  : Unknown
+Time Flow    : Distorted
+
+📂 Active Projects
+Izayoi
+Interactive Systems
+Experimental Concepts
+
+<div align="center">
+
+“Time flows differently here.”
+```
+</div>
+</details>
+
+<details>
+<summary>🩸 Scarlet Mode</summary>
+
+<br>
+
+<div align="center">
+
+# 🩸 Scarlet Mode
+
+> “Welcome to the Scarlet Mansion.” <br>
+> “Please mind the knives.”
+
+<img src="https://img.shields.io/badge/Mansion-Active-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tea-Time-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Reality-Unstable-5A0000?style=for-the-badge">
+
+</div>
+
+---
+
+```txt
+SCARLET SYSTEM
+────────────────────────
+
+Mansion Status : Operational
+Night Cycle    : Eternal
+Intruder Alert : Enabled
+Knife Count    : Classified
+Time Flow      : Unreliable
+
+🌹 Current Activities
+Guarding the mansion
+Preparing tea
+Questionable experiments
+Throwing knives professionally
+
+<div align="center">
+
+“Some doors should remain closed.”
+```
+</div> <br> 
+<p align="center"> 
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/touhou-sakuya.gif" width="350"> 
+</p>
+
+</details> 
+
+<br><br><br>
 
 <details>
 <summary><b>[SYSTEM_LOG] Access Level: Restricted</b></summary>
-<pre>
+
+```txt
 - UUID: SUBJECT_????_00
 - STATUS: STABLE (Mostly)
 - LOCATION: ???????_SUBSYSTEM
--------------------------------
+-----------------------------------
 > Initializing connection...
 > Connection to M...... [FAILED]
+> Recovering memory fragments...
+> ERROR_CODE: LZ-404
 > "Not all stars are meant to be reached."
-</pre>
+```
+
 </details>
 
+<details>
+<summary>🔒 Lore Mode</summary>
+
+<br>
+
+<div align="center">
+
+# 📁 ARCHIVE_LOG
+
+> Accessing memory fragments...
+
+<img src="https://img.shields.io/badge/Archive-Restricted-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Fragmented-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/Observation-Active-444444?style=for-the-badge">
+
+</div>
+
+---
+
+```txt
+FILE_01
+────────────────────────
+
+UUID: SUBJECT_????_00
+STATUS: Stable (Mostly)
+MEMORY: Incomplete
+ACCESS: Limited
+
+> Some records appear to be missing.
+> Recovering data...
+
+FILE_02
+────────────────────────
+
+Detected entities:
+- Lisa
+- Sora
+- ????
+- [DATA REMOVED]
+
+> Branching timeline detected.
+
+SYSTEM_NOTICE
+────────────────────────
+
+"Not every version of her
+was meant to exist."
+```
+<div align="center">
+
+⚠ Further access is not recommended.
+
+</div>
+
+</details>
+
+<br><br>
+README Patch Notes v1.7
+
+> + Added more unnecessary modes
+> + Stability improvements
+> - Sleep schedule removed
+<br>
+Current Status: <br>
+Probably fixing something unnecessary.
+<br>
+Current Mood: <br>
+Adding lore instead of sleeping.
+
+<br><br>
+
+<p align="center">
+  <sub>If you're reading this, you scrolled too far.</sub>
+</p>
 
 
-
-
-  
 <!--
 **NameIsLisa/NameIsLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -367,7 +582,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Kamu penasaran ya...?
+
+Curious... aren't you..?
 -->
 
 
@@ -433,6 +649,14 @@ Kamu penasaran ya...?
 
 
 
-<!-- If you found this, you're not supposed to -->
+
+<!--
+If you found this...
+You're probably not supposed to be here.
+-->
+
 <!-- ????: I̷ ̴r̵e̷a̴l̸i̶z̷e̴ ̶y̵o̸u̷r̵ ̴e̶x̷i̸s̶t̵e̴n̷c̶e̵... -->
+
 <!-- NEVER GONNA GIVE YOU UP -->
+
+<!-- She's probably adding another mode right now. -->
