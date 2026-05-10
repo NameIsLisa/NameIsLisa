@@ -1,6 +1,3 @@
-# 🎭 Choose Mode
-<sub> Different modes. Same person. Probably. <sub>
-
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/d0cac81a-9fa0-4414-9e38-e66becb1edfa" width="180" />
@@ -19,10 +16,23 @@
 
 </div>
 
+# 🌟 Featured Projects
+
+### ✨ Izayoi
+Puzzle Visual Novel built with Ren'Py.
+
+### 🌸 Touhou: Adventure in a Fantasy World
+Adventure-focused Touhou fangame project.
+
+### 🤖 Sora
+Experimental Discord bot system.
+
 ---
+# 🎭 Choose Mode
+<sub>Different modes. Same person. Probably.</sub>
 
 <details open>
-<summary>🌱 Normal Mode</summary>
+<summary><b>[1] Normal Mode</b></summary>
 
 <br>
 
@@ -30,7 +40,8 @@
 
 # 🌱 Normal Mode
 
-Software & Game Development Student
+Software & Game Development Student <br>
+Trying to turn weird ideas into actual projects.
 
 <img src="https://img.shields.io/badge/Status-Chilling-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mood-Curious-8ecae6?style=for-the-badge">
@@ -79,7 +90,7 @@ Probably adding unnecessary features again.
 ---
 
 <details>
-<summary><b>🌸 Classic Mode</b></summary>
+<summary><b>[2] Classic Mode</b></summary>
 
 <br>
 
@@ -114,7 +125,8 @@ class Lisa:
             "VS Code",
             "Blender 3D",
             "Laravel",
-            "Android Studio"
+            "GitHub",
+            "Ren'Py"
         ]
 
         self.energy = "Depends on sleep"
@@ -257,11 +269,13 @@ Execution:  Loading...
 
 # 🎯 Current Goals
 
-* Improve backend architecture
-* Finish personal game projects
-* Learn more about interactive systems
-* Turn imagination into reality
-* Survive Android Studio
+* Finish at least one project before another idea appears
+* Improve backend architecture without breaking everything
+* Make interactive systems that actually work
+* Learn more game design & storytelling
+* Survive university arc
+* Keep creating weird but fun concepts
+* Good sleep, too much sleep, my health...snif
 
 ---
 
@@ -320,7 +334,7 @@ Sleep:         Too much, somehow still tired.
 # 📫 Contact
 
 * GitHub: **You're already here**
-* Discord: `Maybe later`
+* Discord: **name_is_lisa**
 * Email: `Next Time`
 
 ---
@@ -385,7 +399,7 @@ Sleep:         Too much, somehow still tired.
 ---
 
 <details>
-<summary>🕰 Izayoi Mode</summary>
+<summary><b>[3] Izayoi Mode</b></summary>
 
 <br>
 
@@ -427,7 +441,7 @@ Time Flow    : Distorted
 ---
 
 <details>
-<summary>🩸 Scarlet Mode</summary>
+<summary><b>[4] Scarlet Mode</b></summary>
 
 <br>
 
@@ -473,12 +487,117 @@ Time Flow      : Unreliable
 
 ---
 
+<details>
+<summary><b>[5] Game Mode</b></summary>
+
+<br>
+
+<div align="center">
+
+# 🎮 GAME MODE
+
+> "Save often. Regret less."
+
+<img src="https://img.shields.io/badge/Player-Lisa-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Level-18-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Exploring-success?style=for-the-badge">
+
+</div>
+
+---
+
+```txt
+PLAYER STATUS
+────────────────────────
+
+Name        : Lisa
+Class       : Developer
+Speciality  : Ideas & Chaos
+HP          : ██████░░░░ 60%
+MP          : ██████████ 100%
+Sleep       : ███████████ 110%
+Motivation  : ██████░░░░ 60%
+```
+
+---
+
+# 🎒 Inventory
+
+```txt
+Items:
+- Jasmine Tea x99
+- Motivation Potion x3
+- Unfinished Projects x∞
+- Bug Repellent x0
+- Random Ideas x999
+```
+
+---
+
+# 🗺 Current Quest
+
+```txt
+[ MAIN QUEST ]
+> Survive University Arc
+
+[ SIDE QUESTS ]
+> Finish at least one game project
+> Learn new things
+> Avoid unnecessary feature creep
+> Touch grass occasionally
+```
+
+---
+
+# 💾 Save Point
+
+```txt
+Last Save:
+Before adding another unnecessary mode.
+```
+
+---
+
+# 🧠 Skill Tree
+
+```txt
+Game Development     █████████░
+UI/UX                ████████░░
+Storytelling         ███████░░░
+3D Rendering         ████░░░░░░
+Sleep Management     ░░░░░░░░░░
+```
+# 🏆 Achievements
+
+```txt
+☑ Started too many projects
+☑ Added lore to a README
+☑ Survived feature creep
+☑ Escaped Android Studio (by uninstalling it)
+☐ Finished all unfinished projects
+☐ Fixed sleep schedule (in this arc? impossible...)
+```
+
+<div align="center">
+
+🎮 Continue?
+
+</div>
+
+</details>
+
+---
+
 <br><br><br>
 
 <details>
 <summary><b>[SYSTEM_LOG] Access Level: Restricted</b></summary>
 
 ```txt
+SESSION_ID : LS-17A
+ACCESS_TIME: 03:17 AM
+STATUS     : OBSERVED
+-----------------------------------
 - UUID: SUBJECT_????_00
 - STATUS: STABLE (Mostly)
 - LOCATION: ???????_SUBSYSTEM
@@ -527,8 +646,8 @@ FILE_02
 ────────────────────────
 
 Detected entities:
-- Lisa
-- Sora
+- L---
+- S---
 - ????
 - [DATA REMOVED]
 
@@ -550,17 +669,21 @@ was meant to exist."
 
 <br><br>
 ```txt
-README Patch Notes v1.7
+README Patch Notes v2.0
 
-+ Added more unnecessary modes
-+ Stability improvements
-- Sleep schedule removed
++ Added more unnecessary modes, again
+- Health
 
 Current Status:
-Probably fixing something unnecessary.
+Probably fixing and adding something unnecessary.
+"I need new laptop..."
 
 Current Mood:
 Adding lore instead of sleeping.
+
+[Achievement Unlocked]
+Scrolled Too Far
+Lore Discovered
 ```
 <br><br>
 
