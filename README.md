@@ -23,9 +23,13 @@ Puzzle Visual Novel built with Ren'Py.
 
 ### 🌸 Touhou: Adventure in a Fantasy World
 Adventure-focused Touhou fangame project.
+And Ren'py tutorial(my version)
 
 ### 🤖 Sora
 Experimental Discord bot system.
+
+### 🤖 Internship Chatbot System
+Internship project focused on real-time chatbot interaction using Laravel, WebSocket, and AI integration.
 
 ---
 # 🎭 Choose Mode
@@ -155,7 +159,7 @@ print(Lisa().greet())
 
 ### 🕹 Visual Novel Projects
 
-#### ✨ Izayoi
+#### ⏳ Izayoi
 
 * Engine: **Ren'Py**
 * Genre: **Puzzle Visual Novel**
@@ -177,9 +181,7 @@ print(Lisa().greet())
 
 * Engine: **TBD**
 * Status: **Planned**
-* Category: Story / Multi-universe Concept
-
----
+* Category: Story / Puzzle
 
 ## 🌍 Open World Ideas
 
@@ -207,6 +209,12 @@ Reason: Laptop may explode if rendering starts.
 
 * Interactive System Bot
 * Status: Temporarily Paused
+
+### 💬 Chatbot
+
+#### Minara
+* Customer Service
+* Status Complete
 
 ---
 
@@ -263,6 +271,7 @@ Execution:  Loading...
 ```diff
 + Status: Stable (Mostly)
 - Warning: Overthinking Detected
+- Laptop: "I'm too old for this."
 ```
 
 ---
@@ -407,7 +416,7 @@ Sleep:         Too much, somehow still tired.
 
 # ❄ Izayoi Mode
 
-> “POV: Sakuya discovered GitHub.” <br>
+> POV: Sakuya discovered GitHub. <br>
 > “Perfection requires silence.”
 
 <img src="https://img.shields.io/badge/Status-Operational-blue?style=for-the-badge">
@@ -496,7 +505,8 @@ Time Flow      : Unreliable
 
 # 🎮 GAME MODE
 
-> "Save often. Regret less."
+> "Save often. Regret less." <br>
+> "Don't forget to Ctrl + S when rendering..."
 
 <img src="https://img.shields.io/badge/Player-Lisa-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Level-18-purple?style=for-the-badge">
@@ -527,7 +537,6 @@ Motivation  : ██████░░░░ 60%
 Items:
 - Jasmine Tea x99
 - Motivation Potion x3
-- Unfinished Projects x∞
 - Bug Repellent x0
 - Random Ideas x999
 ```
@@ -553,7 +562,7 @@ Items:
 
 ```txt
 Last Save:
-Before adding another unnecessary mode.
+Before adding another unnecessary mode, again.
 ```
 
 ---
@@ -574,6 +583,7 @@ Sleep Management     ░░░░░░░░░░
 ☑ Added lore to a README
 ☑ Survived feature creep
 ☑ Escaped Android Studio (by uninstalling it)
+☑ Successfully deployed a real project
 ☐ Finished all unfinished projects
 ☐ Fixed sleep schedule (in this arc? impossible...)
 ```
@@ -669,10 +679,11 @@ was meant to exist."
 
 <br><br>
 ```txt
-README Patch Notes v2.0
+README Patch Notes v2.1
 
 + Added more unnecessary modes, again
-- Health
++ Added something
+- Laptop Health
 
 Current Status:
 Probably fixing and adding something unnecessary.
@@ -684,6 +695,8 @@ Adding lore instead of sleeping.
 [Achievement Unlocked]
 Scrolled Too Far
 Lore Discovered
+Patch Notes Reader
+"Yo! i'm from Discord" (If you visit this profile from Discord)
 ```
 <br><br>
 
@@ -782,4 +795,4 @@ You're probably not supposed to be here.
 
 <!-- NEVER GONNA GIVE YOU UP -->
 
-<!-- She's probably adding another mode right now. -->
+<!-- She's probably adding another unnecessary right now. -->
