@@ -9,7 +9,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Focus-Game%20Development-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Learning-Everyday-F7C948?style=for-the-badge">
+<img src="https://img.shields.io/badge/Learning-Game-F7C948?style=for-the-badge">
 <img src="https://img.shields.io/badge/Game-Touhou%20Project-E63946?style=for-the-badge">
 <img src="https://img.shields.io/badge/Character-Izayoi%20Sakuya-3A86FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/Food-Satay%20%26%20Indomie-FF8800?style=for-the-badge">
@@ -32,9 +32,12 @@ Experimental Discord bot system.
 Internship project focused on real-time chatbot interaction using Laravel, WebSocket, and AI integration.
 
 ---
-# 🎭 Choose Mode
+# 🎭 Public Modes
 <sub>Different modes. Same person. Probably.</sub>
 
+<details>
+<summary><b>Available Modes</b></summary>
+<br>
 <details open>
 <summary><b>[1] Normal Mode</b></summary>
 
@@ -89,9 +92,10 @@ Probably adding unnecessary features again.
 “Not everything here is serious. Most of it started because I was bored.”
 
 </div> 
-</details> 
 
 ---
+</details> 
+
 
 <details>
 <summary><b>[2] Classic Mode</b></summary>
@@ -102,12 +106,16 @@ Probably adding unnecessary features again.
     
 # 🌸 Classic Mode
 
+Huh... {insert cool text here} <br>
+Some ideas came from my dreams!
+
 <img src="https://img.shields.io/badge/Brain-Overloaded-ff69b4?style=for-the-badge">
 <img src="https://img.shields.io/badge/Sleep-Optional-6a4c93?style=for-the-badge">
 <img src="https://img.shields.io/badge/Ideas-Too%20Many-ffb703?style=for-the-badge">
 <img src="https://img.shields.io/badge/System-Mostly%20Stable-blueviolet?style=for-the-badge">
     
 > Probably the intended version.
+
 </div>
 
 <br>
@@ -271,6 +279,7 @@ Execution:  Loading...
 ```diff
 + Status: Stable (Mostly)
 - Warning: Overthinking Detected
+- Laptop Temperature: yes
 - Laptop: "I'm too old for this."
 ```
 
@@ -379,6 +388,13 @@ Sleep:         Too much, somehow still tired.
 
 ---
 
+Unused Files:
+- final_final_REAL.psd
+- project_v2_fixed2_last.rpy
+- PLEASE_WORK.blend
+
+---
+
 <div align="center">
 
 ## ⚡ Built with chaos, imagination, and an overloaded sleep system ⚡
@@ -403,101 +419,12 @@ Sleep:         Too much, somehow still tired.
 
 </div>
 
+---
 </details>
 
----
 
 <details>
-<summary><b>[3] Izayoi Mode</b></summary>
-
-<br>
-
-<div align="center">
-
-# ❄ Izayoi Mode
-
-> POV: Sakuya discovered GitHub. <br>
-> “Perfection requires silence.”
-
-<img src="https://img.shields.io/badge/Status-Operational-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clock-Synchronized-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/Reality-Stable-1f2937?style=for-the-badge">
-
-</div>
-
----
-
-```txt
-SYSTEM STATUS
-────────────────────────
-
-Focus        : Stable
-Precision    : High
-Emotion      : Suppressed
-Sleep Cycle  : Unknown
-Time Flow    : Distorted
-
-📂 Active Projects
-- Izayoi
-- Interactive Systems
-- Experimental Concepts
-```
-<div align="center">
-    “Time flows differently here.”
-</div>
-</details>
-
----
-
-<details>
-<summary><b>[4] Scarlet Mode</b></summary>
-
-<br>
-
-<div align="center">
-
-# 🩸 Scarlet Mode
-
-> “Welcome to the Scarlet Mansion.” <br>
-> “Please mind the knives.”
-
-<img src="https://img.shields.io/badge/Mansion-Active-darkred?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tea-Time-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Reality-Unstable-5A0000?style=for-the-badge">
-
-</div>
-
----
-
-```txt
-SCARLET SYSTEM
-────────────────────────
-
-Mansion Status : Operational
-Night Cycle    : Eternal
-Intruder Alert : Enabled
-Knife Count    : Classified
-Time Flow      : Unreliable
-
-🌹 Current Activities
-- Guarding the mansion
-- Preparing tea
-- Questionable experiments
-- Throwing knives professionally
-```
-<div align="center">
-    “Some doors should remain closed.”
-</div> <br> 
-<p align="center"> 
-  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/touhou-sakuya.gif" width="350"> 
-</p>
-
-</details> 
-
----
-
-<details>
-<summary><b>[5] Game Mode</b></summary>
+<summary><b>[3] Game Mode</b></summary>
 
 <br>
 
@@ -505,12 +432,15 @@ Time Flow      : Unreliable
 
 # 🎮 GAME MODE
 
-> "Save often. Regret less." <br>
-> "Don't forget to Ctrl + S when rendering..."
+Save often. Regret less. <br>
+Don't forget to Ctrl + S when rendering...
 
 <img src="https://img.shields.io/badge/Player-Lisa-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Level-18-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Exploring-success?style=for-the-badge">
+
+> Forgot to save, thats hurt.
+
 
 </div>
 
@@ -562,7 +492,7 @@ Items:
 
 ```txt
 Last Save:
-Before adding another unnecessary mode, again.
+Adding another unnecessary thing, AGAIN.
 ```
 
 ---
@@ -584,6 +514,8 @@ Sleep Management     ░░░░░░░░░░
 ☑ Survived feature creep
 ☑ Escaped Android Studio (by uninstalling it)
 ☑ Successfully deployed a real project
+☑ Questioning myself
+☑ Delayed actual development to update this README
 ☐ Finished all unfinished projects
 ☐ Fixed sleep schedule (in this arc? impossible...)
 ```
@@ -594,6 +526,104 @@ Sleep Management     ░░░░░░░░░░
 
 </div>
 
+</details>
+
+</details>
+
+---
+
+# 🌌 Special Modes
+<sub>This is not me.</sub>
+
+<details>
+<summary><b>Unlockable Modes</b></summary>
+<br>
+<details>
+<summary><b>[1] Izayoi Mode</b></summary>
+
+<br>
+
+<div align="center">
+
+# ❄ Izayoi Mode
+
+> POV: Sakuya discovered GitHub. <br>
+> “Perfection requires silence.”
+
+<img src="https://img.shields.io/badge/Status-Operational-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Clock-Synchronized-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/Reality-Stable-1f2937?style=for-the-badge">
+
+</div>
+
+---
+
+```txt
+SYSTEM STATUS
+────────────────────────
+
+Focus        : Stable
+Precision    : High
+Emotion      : Suppressed
+Sleep Cycle  : Unknown
+Time Flow    : Distorted
+
+📂 Active Projects
+- Izayoi
+- Interactive Systems
+- Experimental Concepts
+```
+<div align="center">
+    “Time flows differently here.”
+</div>
+
+---
+</details>
+
+
+<details>
+<summary><b>[2] Scarlet Mode</b></summary>
+
+<br>
+
+<div align="center">
+
+# 🩸 Scarlet Mode
+
+> “Welcome to the Scarlet Mansion.” <br>
+> “Please mind the knives.”
+
+<img src="https://img.shields.io/badge/Mansion-Active-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tea-Time-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Reality-Unstable-5A0000?style=for-the-badge">
+
+</div>
+---
+
+```txt
+SCARLET SYSTEM
+────────────────────────
+
+Mansion Status : Operational
+Night Cycle    : Eternal
+Intruder Alert : Enabled
+Knife Count    : Classified
+Time Flow      : Unreliable
+
+🌹 Current Activities
+- Guarding the mansion
+- Preparing tea
+- Questionable experiments
+- Throwing knives professionally
+```
+<div align="center">
+    “Some doors should remain closed.”
+</div> <br> 
+<p align="center"> 
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/touhou-sakuya.gif" width="350"> 
+</p>
+
+</details> 
 </details>
 
 ---
@@ -617,6 +647,13 @@ STATUS     : OBSERVED
 > Recovering memory fragments...
 > ERROR_CODE: LZ-404
 > "Not all stars are meant to be reached."
+> "You are not recommended to go INSIDE."
+
+DREAM_LOG_04
+────────────────────
+
+"I saw an entire game mechanic in a dream.
+I forgot half of it after waking up."
 ```
 
 </details>
@@ -679,10 +716,11 @@ was meant to exist."
 
 <br><br>
 ```txt
-README Patch Notes v2.1
+README Patch Notes v2.2
 
-+ Added more unnecessary modes, again
++ Added more unnecessary details
 + Added something
++ Why?
 - Laptop Health
 
 Current Status:
@@ -719,11 +757,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Curious... aren't you..?
+Curious... aren't ya..?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?? ACHIEVEMENT]
+Read the entire README without collapsing all sections.
+You are here...inside.
 -->
-
-
-
 
 
 
@@ -791,7 +844,7 @@ If you found this...
 You're probably not supposed to be here.
 -->
 
-<!-- ????: I̷ ̴r̵e̷a̴l̸i̶z̷e̴ ̶y̵o̸u̷r̵ ̴e̶x̷i̸s̶t̵e̴n̷c̶e̵... -->
+
 
 <!-- NEVER GONNA GIVE YOU UP -->
 
